@@ -1,0 +1,34 @@
+{
+	"id": "expanded-treasure",
+	"title": "Expanded Treasure",
+	"description": "A collection of expanded treasures for your DnD 5e game.",
+	"authors": [
+		{
+		"name": "AndrewRP8023"
+		}
+	],
+	"languages": [
+		{
+		"lang": "en",
+		"name": "English",
+		"path": "lang/en.json"
+		}
+	],
+	"version": "1.0.0",
+	"compatibility": 
+		{
+		"minimum": "10",
+		"verified": "11"
+		},
+	"packs": [
+		{
+		"name": "et_gemstones_10gp",
+		"label": "ET_Gemstones_10gp",
+		"system": "system-id",
+		"path": "./packs/",
+		"type": "Item"
+		}
+	]
+
+}
+
