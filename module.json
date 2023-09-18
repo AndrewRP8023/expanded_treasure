@@ -15,6 +15,7 @@
 		}
 	],
 	"version": "1.0.0",
+	"manifest": "https://github.com/AndrewRP8023/expanded_treasure/releases/latest/download/module.json",
 	"compatibility": 
 		{
 		"minimum": "10",
