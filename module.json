@@ -27,6 +27,10 @@
 		"label": "Expanded Treasures: Gemstones",
 		"system": "system-id",
 		"path": "./packs/",
+		"ownership": {
+        		"PLAYER": "OBSERVER",
+        		"ASSISTANT": "OWNER"
+      		},
 		"type": "Item"
 		}
 		{
@@ -34,6 +38,10 @@
 		"label": "Expanded Treasures: Art Objects",
 		"system": "system-id",
 		"path": "./packs/",
+		"ownership": {
+        		"PLAYER": "OBSERVER",
+        		"ASSISTANT": "OWNER"
+      		},
 		"type": "Item"
 		}
 	]
