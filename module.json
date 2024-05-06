@@ -1,4 +1,4 @@
-{
+_{
 	"id": "expandedtreasure",
 	"title": "Expanded Treasure (5e)",
 	"description": "A collection of expanded treasures for your DnD 5e game.",
@@ -30,7 +30,7 @@
 		"type": "Item"
 		}
 		{
-		"name": "art_objects",
+		"name": "et_art_objects",
 		"label": "Art Objects",
 		"system": "system-id",
 		"path": "./packs/",
