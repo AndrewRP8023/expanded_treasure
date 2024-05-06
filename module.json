@@ -1,6 +1,6 @@
 {
 	"id": "expandedtreasure",
-	"title": "Expanded Treasure",
+	"title": "Expanded Treasure (5e)",
 	"description": "A collection of expanded treasures for your DnD 5e game.",
 	"authors": [
 		{
@@ -18,13 +18,20 @@
 	"manifest": "https://github.com/AndrewRP8023/expanded_treasure/releases/latest/download/module.json",
 	"compatibility": 
 		{
-		"minimum": "10",
+		"minimum": "11",
 		"verified": "11"
 		},
 	"packs": [
 		{
 		"name": "et_gemstones_10gp",
 		"label": "ET_Gemstones_10gp",
+		"system": "system-id",
+		"path": "./packs/",
+		"type": "Item"
+		}
+		{
+		"name": "art_objects",
+		"label": "Art Objects",
 		"system": "system-id",
 		"path": "./packs/",
 		"type": "Item"
