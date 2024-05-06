@@ -24,14 +24,14 @@
 	"packs": [
 		{
 		"name": "et_gemstones_10gp",
-		"label": "ET_Gemstones_10gp",
+		"label": "Expanded Treasures: Gemstones",
 		"system": "system-id",
 		"path": "./packs/",
 		"type": "Item"
 		}
 		{
 		"name": "et_art_objects",
-		"label": "Art Objects",
+		"label": "Expanded Treasures: Art Objects",
 		"system": "system-id",
 		"path": "./packs/",
 		"type": "Item"
