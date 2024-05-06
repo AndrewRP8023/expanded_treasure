@@ -23,7 +23,7 @@
 		},
 	"packs": [
 		{
-		"name": "et_gemstones_10gp",
+		"name": "et_gemstones",
 		"label": "Expanded Treasures: Gemstones",
 		"system": "system-id",
 		"path": "./packs/",
